@@ -1,0 +1,26 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.grey-bar {
+  background-color: #1f1f1f !important;
+}
+.grey-sidenav {
+  background-color: #1f1f1f !important;
+}
+.grey-card {
+  background-color: #1E1E1E !important;
+}
+.light-purple-switch {
+  background-color: #BB86FC !important;
+}
